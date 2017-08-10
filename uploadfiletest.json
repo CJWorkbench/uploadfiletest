@@ -1,6 +1,6 @@
 {
   "name": "Upload File Test",
-  "id_name": "uploadfile",
+  "id_name": "uploadfiletest",
   "category" : "Edit",
   "icon": "edit",
   "description": "Upload file test.",
