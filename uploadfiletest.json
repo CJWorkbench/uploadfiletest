@@ -1,0 +1,15 @@
+{
+  "name": "Upload File Test",
+  "id_name": "uploadfile",
+  "category" : "Edit",
+  "icon": "edit",
+  "description": "Upload file test.",
+  "parameters": [
+    {
+      "name": "Upload File",
+      "id_name": "uploadfile",
+      "type": "file",
+      "visible": true
+    }
+  ]
+}
