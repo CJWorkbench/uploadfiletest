@@ -7,9 +7,10 @@
   "parameters": [
     {
       "name": "Upload File",
-      "id_name": "uploadfile",
-      "type": "file",
-      "visible": true
+      "id_name": "file",
+      "type": "custom",
+      "visible": true,
+      "ui-only": true
     }
   ]
 }
